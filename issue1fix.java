@@ -1,1 +1,2 @@
-modified on master branch : this is a fix for iussue1
+ this is a fix for iussue1 : according to mgr
+
